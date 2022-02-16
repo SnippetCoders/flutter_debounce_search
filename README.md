@@ -1,16 +1,55 @@
-# flutter_debounce_search
+## Dependent Dropdown (Parent/Child)  - Flutter Snippet Series - EP 03
 
-A new Flutter project.
+In this video we will learn how to create Dependent Dropdown (Parent/Child) in Flutter Application.
 
-## Getting Started
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M-upBkywr58/0.jpg)](https://www.youtube.com/watch?v=M-upBkywr58)
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+##### 📎Packages Used
+##### https://pub.dev/packages/snippet_coder_utils
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<hr>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### 📎Json to Dart ConverterJson to Dart Converter
+##### https://www.dripcoding.com/json-to-dart/
+
+<hr>
+
+### 🤝Stay Connected with me !
+##### ✔ Instagram : https://www.instagram.com/SnippetCoder
+##### ✔ Facebook : https://www.facebook.com/SnippetCoder
+##### ✔ Twitter : https://www.twitter.com/SnippetCoder
+##### ✔ Telegram : https://t.me/SnippetCoder
+##### ✔ Github : https://github.com/SnippetCoders/
+
+<hr>
+
+### ⛄If you like my work , you can support me 
+#### ☑️Patreon : https://www.patreon.com/SnippetCoder
+#### ☑️PayPal : http://www.paypal.me/iSharpeners
+#### ☑️DM For UPI Number
+
+<hr>
+
+PLEASE SUBSCRIBE AND SHARE THIS VIDEO!!!!😳
+THANKS FOR WATCHING!!!
+
+🔥NODEJS API for Flutter Developers🔥
+https://youtu.be/_hv-4knConI
+
+🔥 Node JS Register and Login API using JWT & MongoDB 🔥
+https://youtu.be/ZEg03f1o_vQ
+
+🔥 Flutter OTP Login Using NodeJS API 🔥
+https://youtu.be/KbF6uVMGDxg
+
+🔥 NodeJS Login & Register Rest API with MySQL 🔥
+https://youtu.be/YINNyvMS35k
+
+🔥 Flutter Push Notification Using NodeJS API 🔥
+https://youtu.be/3C5pfo7Bc3E
+
+
+Tags and SEO Stuff :
+#flutter #DependentDropdown #CodeSnippet
